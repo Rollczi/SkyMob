@@ -1,4 +1,4 @@
-# SkyMob
+# ☁️ SkyMob
 Simple Extension for SuperiorSkyblock2 plugin [link](https://www.spigotmc.org/resources/⚡%EF%B8%8F-superiorskyblock2-⚡%EF%B8%8F-the-best-core-on-market-⚡%EF%B8%8F-1-18-support.87411/)  
 After the island is created, a custom mob will spawn.
 
