@@ -1,0 +1,8 @@
+name: SkyMob
+version: '${version}'
+main: dev.rollczi.skymob.SkyMob
+api-version: 1.13
+authors: [ Rollczi ]
+website: https://rollczi.dev/
+depend:
+  - SuperiorSkyblock2
