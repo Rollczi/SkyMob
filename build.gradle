@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
     compileOnly 'org.spigotmc:spigot-api:1.18.1-R0.1-SNAPSHOT'
-    compileOnly 'com.bgsoftware:SuperiorSkyblockAPI:1.8.3'
+    compileOnly 'com.bgsoftware:SuperiorSkyblockAPI:2024.4'
 
     implementation "org.panda-lang:expressible:1.1.12"
     implementation 'net.dzikoysk:cdn:1.13.5'
